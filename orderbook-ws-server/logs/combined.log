@@ -1,0 +1,48 @@
+{"level":"info","message":"Database connection has been established successfully.","service":"orderbook-ws-server","timestamp":"2025-03-02 15:50:33:5033"}
+{"level":"info","message":"Synchronizing database schema with options: {\"alter\":true}","service":"orderbook-ws-server","timestamp":"2025-03-02 15:50:33:5033"}
+{"level":"info","message":"Database synchronized successfully.","service":"orderbook-ws-server","timestamp":"2025-03-02 15:50:33:5033"}
+{"level":"info","message":"Database connection has been established successfully.","service":"orderbook-ws-server","timestamp":"2025-03-02 15:51:41:5141"}
+{"level":"info","message":"Synchronizing database schema with options: {\"alter\":true}","service":"orderbook-ws-server","timestamp":"2025-03-02 15:51:41:5141"}
+{"level":"info","message":"Database synchronized successfully.","service":"orderbook-ws-server","timestamp":"2025-03-02 15:51:41:5141"}
+{"level":"info","message":"Database connection has been established successfully.","service":"orderbook-ws-server","timestamp":"2025-03-02 15:52:11:5211"}
+{"level":"info","message":"Synchronizing database schema with options: {\"alter\":true}","service":"orderbook-ws-server","timestamp":"2025-03-02 15:52:11:5211"}
+{"level":"info","message":"Database synchronized successfully.","service":"orderbook-ws-server","timestamp":"2025-03-02 15:52:11:5211"}
+{"level":"info","message":"Database connection has been established successfully.","service":"orderbook-ws-server","timestamp":"2025-03-02 15:54:20:5420"}
+{"level":"info","message":"Synchronizing database schema with options: {\"alter\":true}","service":"orderbook-ws-server","timestamp":"2025-03-02 15:54:20:5420"}
+{"level":"info","message":"Database synchronized successfully.","service":"orderbook-ws-server","timestamp":"2025-03-02 15:54:21:5421"}
+{"level":"info","message":"Database connection has been established successfully.","service":"orderbook-ws-server","timestamp":"2025-03-02 15:54:47:5447"}
+{"level":"info","message":"Synchronizing database schema with options: {\"alter\":true}","service":"orderbook-ws-server","timestamp":"2025-03-02 15:54:47:5447"}
+{"level":"info","message":"Database synchronized successfully.","service":"orderbook-ws-server","timestamp":"2025-03-02 15:54:47:5447"}
+{"level":"info","message":"Database connection has been established successfully.","service":"orderbook-ws-server","timestamp":"2025-03-02 15:56:03:563"}
+{"level":"info","message":"Synchronizing database schema with options: {\"alter\":true}","service":"orderbook-ws-server","timestamp":"2025-03-02 15:56:03:563"}
+{"level":"info","message":"Database synchronized successfully.","service":"orderbook-ws-server","timestamp":"2025-03-02 15:56:03:563"}
+{"level":"info","message":"Starting to listen for Orderbook contract events...","service":"orderbook-ws-server","timestamp":"2025-03-02 15:56:03:563"}
+{"level":"info","message":"WebSocket server started on port 8080","service":"orderbook-ws-server","timestamp":"2025-03-02 15:56:03:563"}
+{"level":"info","message":"Ping interval set to 30000ms","service":"orderbook-ws-server","timestamp":"2025-03-02 15:56:03:563"}
+{"level":"info","message":"Subscription limit set to 50 per client","service":"orderbook-ws-server","timestamp":"2025-03-02 15:56:03:563"}
+{"level":"info","message":"Health check API running on port 8082","service":"orderbook-ws-server","timestamp":"2025-03-02 15:56:03:563"}
+{"level":"info","message":"Health check API running on port 8082","service":"orderbook-ws-server","timestamp":"2025-03-02 15:56:03:563"}
+{"level":"info","message":"Orderbook WebSocket server running on port 8080","service":"orderbook-ws-server","timestamp":"2025-03-02 15:56:03:563"}
+{"level":"info","message":"Rate limits: 5 connections and 30 messages per IP","service":"orderbook-ws-server","timestamp":"2025-03-02 15:56:03:563"}
+{"level":"info","message":"Maximum server connections: 1000","service":"orderbook-ws-server","timestamp":"2025-03-02 15:56:03:563"}
+{"level":"info","message":"WebSocket ping interval: 30000ms","service":"orderbook-ws-server","timestamp":"2025-03-02 15:56:03:563"}
+{"level":"info","message":"Subscription limit per client: 50","service":"orderbook-ws-server","timestamp":"2025-03-02 15:56:03:563"}
+{"level":"info","message":"Order filled event: 0x2698ae175f1e630ca0b28976b84168898d6dc491813d97d227adc6ebe9b40bfc, filler: 0x70997970C51812dc3A010C7d01b50e0d17dc79C8, amount: 500000000","service":"orderbook-ws-server","timestamp":"2025-03-02 15:56:35:5635"}
+{"level":"info","message":"Database connection has been established successfully.","service":"orderbook-ws-server","timestamp":"2025-03-02 16:06:02:62"}
+{"level":"info","message":"Synchronizing database schema with options: {\"alter\":true}","service":"orderbook-ws-server","timestamp":"2025-03-02 16:06:02:62"}
+{"level":"info","message":"Database synchronized successfully.","service":"orderbook-ws-server","timestamp":"2025-03-02 16:06:02:62"}
+{"level":"info","message":"Starting to listen for Orderbook contract events...","service":"orderbook-ws-server","timestamp":"2025-03-02 16:06:02:62"}
+{"level":"info","message":"WebSocket server started on port 8080","service":"orderbook-ws-server","timestamp":"2025-03-02 16:06:02:62"}
+{"level":"info","message":"Ping interval set to 30000ms","service":"orderbook-ws-server","timestamp":"2025-03-02 16:06:02:62"}
+{"level":"info","message":"Subscription limit set to 50 per client","service":"orderbook-ws-server","timestamp":"2025-03-02 16:06:02:62"}
+{"level":"info","message":"Health check API running on port 8082","service":"orderbook-ws-server","timestamp":"2025-03-02 16:06:02:62"}
+{"level":"info","message":"Health check API running on port 8082","service":"orderbook-ws-server","timestamp":"2025-03-02 16:06:02:62"}
+{"level":"info","message":"Orderbook WebSocket server running on port 8080","service":"orderbook-ws-server","timestamp":"2025-03-02 16:06:02:62"}
+{"level":"info","message":"Rate limits: 5 connections and 30 messages per IP","service":"orderbook-ws-server","timestamp":"2025-03-02 16:06:02:62"}
+{"level":"info","message":"Maximum server connections: 1000","service":"orderbook-ws-server","timestamp":"2025-03-02 16:06:02:62"}
+{"level":"info","message":"WebSocket ping interval: 30000ms","service":"orderbook-ws-server","timestamp":"2025-03-02 16:06:02:62"}
+{"level":"info","message":"Subscription limit per client: 50","service":"orderbook-ws-server","timestamp":"2025-03-02 16:06:02:62"}
+{"level":"info","message":"Order filled event: 0x77cc9a023e98ef700e288dd789a1ca2423708115bffaf30e6a57a25f20dfd03e, filler: 0x70997970C51812dc3A010C7d01b50e0d17dc79C8, amount: 500000000","service":"orderbook-ws-server","timestamp":"2025-03-02 16:06:59:659"}
+{"level":"info","message":"Order filled event: 0x62255e64d137518a4cfb29d63345194af3f4de1be9bab5fda53dadce4e3542fa, filler: 0x70997970C51812dc3A010C7d01b50e0d17dc79C8, amount: 500000000","service":"orderbook-ws-server","timestamp":"2025-03-02 16:08:20:820"}
+{"level":"info","message":"Order filled event: 0x0194d64f5647e1f9623288873fb0ee4faf3896ada220001f7545d94a9b3d310f, filler: 0x70997970C51812dc3A010C7d01b50e0d17dc79C8, amount: 500000000","service":"orderbook-ws-server","timestamp":"2025-03-02 16:09:37:937"}
+{"level":"info","message":"Shutting down gracefully...","service":"orderbook-ws-server","timestamp":"2025-03-02 16:32:54:3254"}

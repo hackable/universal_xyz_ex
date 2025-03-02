@@ -1,0 +1,44 @@
+{
+  "name": "orderbook-ws-server",
+  "version": "1.0.0",
+  "description": "WebSocket server for order discovery in the Orderbook smart contract",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "watch": "nodemon --watch 'src/**/*.ts' --exec 'ts-node' src/index.ts",
+    "client": "node examples/client.js",
+    "test-flow": "ts-node examples/test-flow.ts"
+  },
+  "keywords": [
+    "orderbook",
+    "websocket",
+    "ethereum",
+    "dex"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5",
+    "express": "^4.21.2",
+    "sequelize": "^6.37.5",
+    "sqlite3": "^5.1.7",
+    "winston": "^3.17.0",
+    "ws": "^8.18.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.8",
+    "@types/ws": "^8.5.14",
+    "nodemon": "^3.1.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

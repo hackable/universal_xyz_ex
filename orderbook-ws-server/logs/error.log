@@ -1,0 +1,2 @@
+{"level":"error","message":"Port 8081 is already in use for health API. Health check API will not be available.","service":"orderbook-ws-server","timestamp":"2025-03-02 15:54:21:5421"}
+{"level":"error","message":"Port 8081 is already in use for health API. Health check API will not be available.","service":"orderbook-ws-server","timestamp":"2025-03-02 15:54:47:5447"}
