@@ -224,6 +224,7 @@ The system combines off-chain order creation and signing with on-chain verificat
 Try running some of the following tasks:
 
 ```shell
+npm install
 npx hardhat help
 npx hardhat test
 REPORT_GAS=true npx hardhat test
